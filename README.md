@@ -1,16 +1,24 @@
-### Hi there 👋
+# ♡ Bruna Sanog 
+Minha paixão pela tecnologia e pelo seu poder transformador foi o impulso por trás da minha transição de carreira da Publicidade e Propaganda para o Desenvolvimento de Software. 
 
-<!--
-**brunasanog/brunasanog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Publicitária e comunicadora de formação, atualmente imersa aos estudos de desenvolvimento backend com foco em JavaScript.
 
-Here are some ideas to get you started:
+Tenho interesse em atuar como desenvolvedora backend, aplicando minhas habilidades de comunicação e conhecimentos em tecnologia para criar soluções inovadoras e impactantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ♡ Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/brunasanog/)
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/sanogcodes/)
+
+# ♡ Habilidades
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunasanog&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+# ♡ Sobre Mim
+Sou apaixonada por videogames, amo animais, especialmente pandas 🐼, a música é uma parte essencial da minha vida e além disso, tenho um grande apreço por doramas, animes e pela cultura coreana/japonesa. 
+
+![](https://e4p7c9i3.stackpathcdn.com/wp-content/uploads/2019/05/tumblr_p22wjjM6nX1vjxiz1o1_1280.gif?iv=632)
+
+
+![Snake animation](https://github.com/brunasanog/brunasanog/blob/output/github-contribution-grid-snake.svg)
