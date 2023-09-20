@@ -21,4 +21,3 @@ Sou apaixonada por videogames, amo animais, especialmente pandas 🐼, a música
 ![](https://e4p7c9i3.stackpathcdn.com/wp-content/uploads/2019/05/tumblr_p22wjjM6nX1vjxiz1o1_1280.gif?iv=632)
 
 
-![Snake animation](https://github.com/brunasanog/brunasanog/blob/output/github-contribution-grid-snake.svg)
