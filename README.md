@@ -11,13 +11,7 @@ Sou apaixonada por videogames, amo animais, especialmente pandas 🐼, a música
 
 ![GitHub followers](https://img.shields.io/github/followers/brunasanog)  ![Twitch Status](https://img.shields.io/twitch/status/brunasanog)
 
-
-
-
 # ♡ Skills
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunasanog&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-
-
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a> </p> 
