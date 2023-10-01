@@ -7,7 +7,7 @@ Tenho interesse em atuar como desenvolvedora backend, aplicando minhas habilidad
 
 Sou apaixonada por videogames, amo animais, especialmente pandas 🐼, a música é uma parte essencial da minha vida e além disso, tenho um grande apreço por doramas, animes e pela cultura coreana e japonesa. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/brunasanog/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/sanogcodes/) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/brunasanog/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/brunasanog/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/sanogcodes/)
 
 ![GitHub followers](https://img.shields.io/github/followers/brunasanog)  ![Twitch Status](https://img.shields.io/twitch/status/brunasanog)
 
