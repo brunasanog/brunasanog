@@ -1,27 +1,37 @@
-# ♡ Sobre Mim
-Oie! Sou Bruna, tenho 26 anos, sou Publicitária e comunicadora de formação,  mas atualmente estou imersa aos estudos de desenvolvimento backend com foco em JavaScript.
+
+## ♡ Sobre Mim
+Oie! Sou Bruna, tenho 26 anos, sou Publicitária e comunicadora de formação, mas atualmente estou imersa aos estudos de desenvolvimento backend com foco em JavaScript.
 
 Minha paixão pela tecnologia e pelo seu poder transformador foi o impulso por trás da minha transição de carreira da Publicidade e Propaganda para o Desenvolvimento de Software. 
 
 Tenho interesse em atuar como desenvolvedora backend, aplicando minhas habilidades de comunicação e conhecimentos em tecnologia para criar soluções inovadoras e impactantes.
 
-Sou apaixonada por videogames, amo animais, especialmente pandas 🐼, a música é uma parte essencial da minha vida e além disso, tenho um grande apreço por doramas, animes e pela cultura coreana e japonesa. 
+Amo videogames, animais (especialmente pandas 🐼), música, doramas, animes, e a cultura coreana e japonesa.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/brunasanog/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/sanogcodes/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@brunasanog) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1JrmfCCAjbaIffwXwV24A1?si=19b4d34ef2e34f7c) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunasanog.contato@gmail.com) [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/brunasanog/projects)
+<img align="right" alt="Desenho" height="380" src="https://s5.gifyu.com/images/Sicsc.png">
+
+#### Conecte-se Comigo:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/brunasanog/) 
+
+#### Siga-me nas Redes Sociais:
+
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/sanogcodes/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@brunasanog/)  [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/brunasanog/projects)
+
+#### Habilidades Técnicas:
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" alt="JavaScript" width="52" height="52"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg" alt="VS Code" width="52" height="52"></a> 
+<a href="https://expressjs.com/pt-br/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg" alt="Express" width="52" height="52"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="Git" width="52" height="52"></a>
+<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" alt="GitHub" width="52" height="52"></a>
+<a href="https://nodejs.org/en" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" alt="NodeJs" width="52" height="52"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PostgreSQL-Dark.svg" alt="PostGres" width="52" height="52"></a>
+<a href="https://pt.wikipedia.org/wiki/PowerShell" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Powershell-Dark.svg" alt="PowerShell" width="52" height="52"></a>
+<a href="https://www.adobe.com/br/products/photoshop/landpa.html?gclid=CjwKCAiAg9urBhB_EiwAgw88mVExh-JF9qairjAFOC8zLBhhRfBxfQ_j2jH66xI_HId6C5O5yaGVIxoCSFMQAvD_BwE&sdid=KQPOM&mv=search&ef_id=CjwKCAiAg9urBhB_EiwAgw88mVExh-JF9qairjAFOC8zLBhhRfBxfQ_j2jH66xI_HId6C5O5yaGVIxoCSFMQAvD_BwE:G:s&s_kwcid=AL!3085!3!534509111647!e!!g!!photoshop!188192502!10077842982&gad_source=1" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Photoshop.svg" alt="Photoshop" width="52" height="52"></a>
+<a href="https://www.adobe.com/br/products/illustrator/campaign/pricing.html?gclid=CjwKCAiAg9urBhB_EiwAgw88mUH0v6Q-oitv1RqGvxVXx7o5An8YOcCITfaVwqY3aJiaQFIK-TY43RoCsE4QAvD_BwE&sdid=KQPNY&mv=search&ef_id=CjwKCAiAg9urBhB_EiwAgw88mUH0v6Q-oitv1RqGvxVXx7o5An8YOcCITfaVwqY3aJiaQFIK-TY43RoCsE4QAvD_BwE:G:s&s_kwcid=AL!3085!3!473120541051!e!!g!!illustrator!188190582!10039578942&gad_source=1" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Illustrator.svg" alt="Illustrator" width="52" height="52"></a>
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunasanog&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
 
 
 
 
-
-
-![GitHub followers](https://img.shields.io/github/followers/brunasanog)  ![Twitch Status](https://img.shields.io/twitch/status/brunasanog) 
-
-# ♡ Skills
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunasanog&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"></a> <a href="URL_DO_LINK" target="_blank" rel="noreferrer"></a> </a> <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"></a> <a href="URL_DO_LINK" target="_blank" rel="noreferrer"></a> 
- 
-</p> 
-
-
-![](https://e4p7c9i3.stackpathcdn.com/wp-content/uploads/2019/05/tumblr_p22wjjM6nX1vjxiz1o1_1280.gif?iv=632)
