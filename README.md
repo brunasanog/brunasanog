@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header"/>
 
 ## ♡ Sobre Mim
 Oie! Sou Bruna, tenho 26 anos, sou Publicitária e comunicadora de formação, mas atualmente estou imersa aos estudos de desenvolvimento backend com foco em JavaScript.
@@ -8,7 +9,7 @@ Tenho interesse em atuar como desenvolvedora backend, aplicando minhas habilidad
 
 Amo videogames, animais (especialmente pandas 🐼), música, doramas, animes, e a cultura coreana e japonesa.
 
-<img align="right" alt="Desenho" height="380" src="https://s5.gifyu.com/images/Sicsc.png">
+<img align="right" alt="Desenho" height="600" src="https://s5.gifyu.com/images/SicUf.png">
 
 #### Conecte-se Comigo:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/brunasanog/) 
@@ -31,7 +32,7 @@ Amo videogames, animais (especialmente pandas 🐼), música, doramas, animes, e
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunasanog&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
 
 
 
