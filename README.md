@@ -1,4 +1,4 @@
-# ♡ About me
+# ♡ Sobre Mim
 Oie! Sou Bruna, tenho 26 anos, sou Publicitária e comunicadora de formação,  mas atualmente estou imersa aos estudos de desenvolvimento backend com foco em JavaScript.
 
 Minha paixão pela tecnologia e pelo seu poder transformador foi o impulso por trás da minha transição de carreira da Publicidade e Propaganda para o Desenvolvimento de Software. 
