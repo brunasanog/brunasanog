@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header"/>
 
 ## ♡ Sobre Mim
-Oie! Sou Bruna, tenho 26 anos, sou Publicitária e comunicadora de formação, mas atualmente estou imersa aos estudos de desenvolvimento backend com foco em JavaScript.
+Oie! Sou Bruna, tenho 26 anos, sou publicitária e comunicadora, atualmente imersa aos estudos de desenvolvimento de software, cursando Análise e Desenvolvimento de Sistemas.
 
-Minha paixão pela tecnologia e pelo seu poder transformador foi o impulso por trás da minha transição de carreira da Publicidade e Propaganda para o Desenvolvimento de Software. 
+Minha paixão pela tecnologia e pelo seu poder transformador foi o impulso por trás da minha transição de carreira da Publicidade e Propaganda para a Tecnologia da Informação. 
 
-Tenho interesse em atuar como desenvolvedora backend, aplicando minhas habilidades de comunicação e conhecimentos em tecnologia para criar soluções inovadoras e impactantes.
+Tenho interesse em atuar como desenvolvedora, aplicando minhas habilidades de comunicação e conhecimentos em tecnologia para criar soluções inovadoras e impactantes.
 
 Amo videogames, animais (especialmente pandas 🐼), música, doramas, animes, e a cultura coreana e japonesa.
 
