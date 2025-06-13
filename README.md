@@ -9,7 +9,7 @@ Tenho interesse em atuar como desenvolvedora backend/fullstack, aplicando minhas
 
 Amo videogames, animais (especialmente pandas 🐼), música,  doramas...
 
-<img align="right" alt="Desenho" height="500" src="https://s5.gifyu.com/images/SicVq.png">
+<img align="right" alt="Desenho" height="500" src="https://s14.gifyu.com/images/bx11s.png">
 
 #### Conecte-se Comigo:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/brunasanog/) 
