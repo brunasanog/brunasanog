@@ -7,7 +7,7 @@ Publicitária e comunicadora,  atualmente imersa aos estudos de desenvolvimento 
 
 Tenho interesse em atuar como desenvolvedora backend/fullstack, aplicando minhas habilidades de comunicação e conhecimentos em tecnologia para criar soluções inovadoras e impactantes.
 
-Amo videogames, animais (especialmente pandas 🐼), música,  doramas...
+Amo games, animais (especialmente pandas 🐼), música 🎸🤘🏻...
 
 <img align="right" alt="Desenho" height="500" src="https://s14.gifyu.com/images/bx11s.png">
 
