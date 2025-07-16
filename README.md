@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header"/>
 
 ## ♡ Sobre Mim
-Minha paixão pela tecnologia e pelo seu poder transformador foi o impulso por trás da minha transição de carreira da Publicidade e Propaganda para a Tecnologia da Informação. 
+Gosto muito de tecnologia e do impacto que ela pode causar, por isso fiz a transição da Publicidade para a área de TI.
 
-Publicitária e comunicadora,  atualmente imersa aos estudos de desenvolvimento de software, cursando Análise e Desenvolvimento de Sistemas.
+Atualmente, estudo Análise e Desenvolvimento de Sistemas e busco oportunidades como desenvolvedora backend/fullstack.
 
-Tenho interesse em atuar como desenvolvedora backend/fullstack, aplicando minhas habilidades de comunicação e conhecimentos em tecnologia para criar soluções inovadoras e impactantes.
+Procuro unir minhas habilidades de comunicação com a programação para criar soluções práticas e inovadoras.
 
-Amo games, animais (especialmente pandas 🐼), música 🎸🤘🏻...
+Além disso, sou fã de games, amo animais (pandas são meus favoritos 🐼) e adoro música 🎸🤘🏻.
 
 <img align="right" alt="Desenho" height="500" src="https://s14.gifyu.com/images/bx11s.png">
 
