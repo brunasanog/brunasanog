@@ -30,8 +30,6 @@ Amo games, animais (especialmente pandas 🐼), música 🎸🤘🏻...
 <a href="https://www.adobe.com/br/products/photoshop/landpa.html?gclid=CjwKCAiAg9urBhB_EiwAgw88mVExh-JF9qairjAFOC8zLBhhRfBxfQ_j2jH66xI_HId6C5O5yaGVIxoCSFMQAvD_BwE&sdid=KQPOM&mv=search&ef_id=CjwKCAiAg9urBhB_EiwAgw88mVExh-JF9qairjAFOC8zLBhhRfBxfQ_j2jH66xI_HId6C5O5yaGVIxoCSFMQAvD_BwE:G:s&s_kwcid=AL!3085!3!534509111647!e!!g!!photoshop!188192502!10077842982&gad_source=1" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Photoshop.svg" alt="Photoshop" width="52" height="52"></a>
 <a href="https://www.adobe.com/br/products/illustrator/campaign/pricing.html?gclid=CjwKCAiAg9urBhB_EiwAgw88mUH0v6Q-oitv1RqGvxVXx7o5An8YOcCITfaVwqY3aJiaQFIK-TY43RoCsE4QAvD_BwE&sdid=KQPNY&mv=search&ef_id=CjwKCAiAg9urBhB_EiwAgw88mUH0v6Q-oitv1RqGvxVXx7o5An8YOcCITfaVwqY3aJiaQFIK-TY43RoCsE4QAvD_BwE:G:s&s_kwcid=AL!3085!3!473120541051!e!!g!!illustrator!188190582!10039578942&gad_source=1" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Illustrator.svg" alt="Illustrator" width="52" height="52"></a>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunasanog&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
 
 
