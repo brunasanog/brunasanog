@@ -7,7 +7,7 @@ Atualmente, estudo Análise e Desenvolvimento de Sistemas e busco oportunidades 
 
 Procuro unir minhas habilidades de comunicação com a programação para criar soluções práticas e inovadoras.
 
-Além disso, sou fã de games, amo animais (pandas são meus favoritos 🐼) e adoro música 🎸🤘🏻.
+Além disso, sou fã de games, adoro animais (pandas são meus favoritos 🐼) e amo música 🎸🤘🏻.
 
 <img align="right" alt="Desenho" height="500" src="https://s14.gifyu.com/images/bx11s.png">
 
