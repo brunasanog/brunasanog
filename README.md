@@ -9,7 +9,7 @@ Procuro unir minhas habilidades de comunicação com a programação para criar 
 
 Além disso, sou fã de games, adoro animais (pandas são meus favoritos 🐼) e amo música 🎸🤘🏻.
 
-<img align="right" alt="Desenho" height="500" src="https://s14.gifyu.com/images/bx11s.png">
+<img align="right" alt="Desenho" height="500" src="https://s14.gifyu.com/images/bNb1u.png">
 
 #### Conecte-se Comigo:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/brunasanog/) 
